@@ -2,16 +2,16 @@
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Screenshot
+## Screenshot 📷
 
 ![](./images/screenshot.png)
 
-## Links
+## Links ⚓
 
 - Solution URL: [GitHub Repositorie](https://github.com/phenrimachado/order-summary-challenge)
 - Live Site URL: [GitHub Pages](https://phenrimachado.github.io/order-summary-challenge/)
 
-## Built with
+## Built with ⚙️
 
 - Semantic HTML5 markup
 - CSS custom properties
